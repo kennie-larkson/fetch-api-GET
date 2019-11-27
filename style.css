@@ -4,7 +4,8 @@ body{
 }
 
 li{
-    border: 2px solid aqua;
+    background-color: beige;
+    border: 1px solid aqua;
     margin-bottom: 5px;;
 
 }
