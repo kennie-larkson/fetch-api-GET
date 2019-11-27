@@ -1,0 +1,10 @@
+body{
+    background-color: rebeccapurple;
+    color: seagreen;
+}
+
+li{
+    border: 2px solid aqua;
+    margin-bottom: 5px;;
+
+}

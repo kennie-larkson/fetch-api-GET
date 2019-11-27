@@ -1,5 +1,5 @@
 const ul = document.getElementById('authors');
-ul.style.listDecoration = 'none';
+ul.style.listStyle = 'none';
 const url = 'https://randomuser.me/api/?results=10';
 
 function createNode(element){
