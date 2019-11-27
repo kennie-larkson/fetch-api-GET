@@ -6,6 +6,7 @@ body{
 li{
     background-color: beige;
     border: 1px solid aqua;
-    margin-bottom: 5px;;
+    margin-bottom: 5px;
+    width: 50%;
 
 }
